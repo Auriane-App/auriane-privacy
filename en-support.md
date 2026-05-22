@@ -2,7 +2,7 @@
 layout: default
 title: Support — Auriane
 lang: en
-permalink: /en/support/
+permalink: /support/en/
 ---
 
 [Version française](/support/)

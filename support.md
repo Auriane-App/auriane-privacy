@@ -5,7 +5,7 @@ lang: fr
 permalink: /support/
 ---
 
-[English version](/en/support/)
+[English version](/support/en/)
 
 # Support — Auriane
 
