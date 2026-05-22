@@ -5,7 +5,7 @@ lang: en
 permalink: /en/support/
 ---
 
-[Version française](/auriane-privacy/support/)
+[Version française](/support/)
 
 # Support — Auriane
 
@@ -25,7 +25,7 @@ We reply within a few business days.
 
 ### Is my data sent to a server?
 
-No. Auriane has no servers. Your data stays on your phone. If you enable cloud backup, a copy is sent to **your own** iCloud Drive (iPhone) or Google Drive (Android) — your account, not ours. See the [privacy policy](/auriane-privacy/en/) for details.
+No. Auriane has no servers. Your data stays on your phone. If you enable cloud backup, a copy is sent to **your own** iCloud Drive (iPhone) or Google Drive (Android) — your account, not ours. See the [privacy policy](/en/) for details.
 
 ### How do I enable cloud backup?
 

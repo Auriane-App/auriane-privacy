@@ -2,6 +2,7 @@
 layout: default
 title: Politique de confidentialité — Auriane
 lang: fr
+permalink: /auriane-privacy/
 ---
 
 [English version](./en)

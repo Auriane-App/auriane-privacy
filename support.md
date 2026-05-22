@@ -5,7 +5,7 @@ lang: fr
 permalink: /support/
 ---
 
-[English version](/auriane-privacy/en/support/)
+[English version](/en/support/)
 
 # Support — Auriane
 
@@ -25,7 +25,7 @@ Nous répondons sous quelques jours ouvrés.
 
 ### Mes données sont-elles envoyées sur un serveur ?
 
-Non. Auriane n'a pas de serveurs. Vos données restent sur votre téléphone. Si vous activez la sauvegarde cloud, une copie est envoyée dans **votre propre** iCloud Drive (iPhone) ou Google Drive (Android) — votre compte, pas le nôtre. Voir la [politique de confidentialité](/auriane-privacy/) pour le détail.
+Non. Auriane n'a pas de serveurs. Vos données restent sur votre téléphone. Si vous activez la sauvegarde cloud, une copie est envoyée dans **votre propre** iCloud Drive (iPhone) ou Google Drive (Android) — votre compte, pas le nôtre. Voir la [politique de confidentialité](/) pour le détail.
 
 ### Comment activer la sauvegarde cloud ?
 

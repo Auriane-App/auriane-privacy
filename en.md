@@ -2,7 +2,7 @@
 layout: default
 title: Privacy Policy — Auriane
 lang: en
-permalink: /en/
+permalink: /auriane-privacy/en/
 ---
 
 [Version française](../)
